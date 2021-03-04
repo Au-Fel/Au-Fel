@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello there 👋
+
+##### 👨‍💻 I'm Augusto, a *Full Stack Developer* with experience working with *NodeJS*, Express, *PostgreSQL*, Sequelize, *MongoDB*, Git, *JavaScript*, HTML, CSS, *React*, and *Redux*.
+##### ⚡  I've also been working following the Agile methodology, *Scrum*.
+##### 🌱 Currently learning: *TypeScript*.
+<br />
+
+##### You can reach me on [LinkedIn](https://www.linkedin.com/in/augusto-felicenzi/) or via email at 📫 augustofelicenzi@gmail.com 😊
 
 <!--
 **Au-Fel/Au-Fel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
